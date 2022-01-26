@@ -35,6 +35,7 @@ You can access the swagger ui generated docs on `https://localhost:7253/swagger`
 
 ## Commands
 
+- You can run it by download .net core(https://dotnet.microsoft.com/en-us/download/dotnet/6.0) Or run docker, there is a docker file in root folder.
 - `dotnet build`: builds the project;
 - `dotnet run`: starts the server in development mode;
 - `dotnet test`: runs tests;
